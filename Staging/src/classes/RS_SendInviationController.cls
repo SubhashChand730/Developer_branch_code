@@ -1,5 +1,6 @@
 Public with sharing class RS_SendInviationController
 { 
+	//comment
   public String  displaymessage        { get; set; }
   Public string  selectedField         { get; set; }
   public String  size                  { get; set; }

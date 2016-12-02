@@ -1,7 +1,7 @@
 Public with sharing class RS_SendInviationController
 { 
 	
-	//Subhash
+	//Subhashahg
 	//comment1
   public String  displaymessage        { get; set; }
   Public string  selectedField         { get; set; }
